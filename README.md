@@ -49,7 +49,7 @@ as [0] and [1] respectively.
 - SPEED average number of keystrokes per second
 
 
-The **labels.csv** file contains PAD (Pleasure, Arousal, Dominace) labels reported at specified moments of the experiment session. Each user reported the emotional state five times so there are 5 vectors for each users. It gives 245 rows, each containing 3 values. The pleasure, arousal, dominance were all reported using a 9-point Likert scale. In the case of pleasure and arousal the lower the value the state is more positive or more aroused respectively. In the case od dominance the lower the value the less dominant affective state. Every successive five vectors belong to the next participant of the experiment. The vectors for each user are given in the following order:
+The **labels.csv** file contains PAD (Pleasure, Arousal, Dominance) labels reported at specified moments of the experiment session. Each user reported the emotional state five times so there are 5 vectors for each users. It gives 245 rows, each containing 3 values. The pleasure, arousal, dominance were all reported using a 9-point Likert scale. In the case of pleasure and arousal the lower the value the state is more positive or more aroused respectively. In the case od dominance the lower the value the less dominant affective state. Every successive five vectors belong to the next participant of the experiment. The vectors for each user are given in the following order:
 
 1. PAD values reported at the beginning of the session
 2. PAD values reported after writing a positive opinion on a teacher
