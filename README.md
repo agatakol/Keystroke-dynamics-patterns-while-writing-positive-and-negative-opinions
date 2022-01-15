@@ -1,5 +1,9 @@
 # Keystroke dynamics patterns while writing positive and negative opinions
 
+This repository cantains dataset referred in the following article:
+
+Kołakowska, Agata, and Agnieszka Landowska. 2021. "Keystroke Dynamics Patterns While Writing Positive and Negative Opinions" Sensors 21, no. 17: 5963. https://doi.org/10.3390/s21175963 
+
 The repository contains data collected in 2017 in order to perform an experiment in which keystroke dynamics patterns were analyzed while writing various opinions. The participants were asked to write opinions on their worst and best learning experience, while all keystrokes were captured. The research question of the study might be given as follows: Is there any difference in keystroke dynamics patterns while writing positive and negative opinions.
 
 The **data.csv** file contains feature vectors extracted on the basis of raw data. There are 245 vectors (rows) containing 51 features (columns). For each of 49 participants 5 feature vectors were extracted (5 x 49 = 245):  
